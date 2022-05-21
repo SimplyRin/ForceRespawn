@@ -1,0 +1,5 @@
+name: ForceRespawn
+version: 1.0
+main: net.simplyrin.forcerespawn.ForceRespawn
+commands:
+  forcerespawn:
